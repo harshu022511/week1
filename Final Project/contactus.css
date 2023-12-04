@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+
+body{
+   background: url(./Untitled.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.main-block{
+    border: solid  2px;
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: center;   
+    background-color: whitesmoke;
+    box-shadow: 2px 2px 5px whitesmoke;
+    margin-top: 0px;
+}
+#contact{
+    color: black;
+    font-family: cursive;
+   
+}
+
+#home,#about{
+    color: black;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+.container{
+    border: solid 2px rgb(167, 14, 238);
+    width: 800px;
+    height: 600px;
+    border-radius: 30px;
+    box-shadow: 1px 0px 1px 1px powderblue;
+    padding-top: 0%;
+    margin-top: 50px;
+}
+h1{
+    color: blue;
+    text-align: center;
+    font-family: cursive;
+    box-shadow: 0px 1px 2px  palevioletred;
+
+}
+.container .block1{
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: monospace;
+    margin-top: 50px;
+    padding: 0%;
+}
+.container .block2{
+    margin-left: 457px;
+    margin-top: -20px;
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+.container .block3{
+    margin-top: 50px;
+    margin-left: 104px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.container .block7{
+    font-size: 20px;
+    margin-top: -23px;
+    margin-left: 448px;
+    font-family: monospace;
+}
+.container .block4{
+    margin-top: 50px;
+    margin-left: 70px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.container .block5{
+    margin-top: -22px;
+    margin-left: 405px;
+    font-size: 20px;
+    font-family: monospace;
+}
+.container .block6{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 80px;
+    font-family: monospace;
+}
+
+#FirstName{
+    height: 22px;
+    border-radius: 6px;
+    border: solid 2px royalblue;
+}
+#SecondName{
+    height: 22px;
+    border-radius: 6px;
+    border: solid 2px royalblue;
+}
+#email{
+    height: 22px;
+    border-radius: 6px;
+    border: solid 2px royalblue;
+}
+#num{
+    height: 22px;
+    border-radius: 6px;
+    border: solid 2px royalblue;
+}
+#pass{
+    height: 22px;
+    border-radius: 6px;
+    border: solid 2px royalblue;
+}
+#desc{
+    height: 60px;
+    width: 690px;
+    margin-right: 40px;
+}
+
+.container .btn{
+    background-color: rgb(202, 80, 233);
+    margin-top: 63px;
+    margin-left: 254px;
+    cursor: pointer;
+    height: 48px;
+    width: 361px;
+    border-radius: 10px;
+    font-size: 26px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    
+}
+.container .btn:hover{
+    cursor: pointer;
+    background-color: blueviolet;
+    
+}
+.cont .phe h3{
+    font-size: 30px;
+  float: left;
+  margin-top: 20px;
+}
+#ph{
+    font-size: 30px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 50px;
+}
+
+#ma{
+    font-size: 30px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 50px;
+
+}
+#insta{
+    color: #DB216A;
+    font-size: 30px;
+    text-decoration: none;
+}
+#twitter{
+    color:black;
+    font-size: 30px;
+    text-decoration: none;
+}
+#linkd{
+    color:#1B84F5;
+    font-size: 30px;
+    text-decoration: none;
+}
